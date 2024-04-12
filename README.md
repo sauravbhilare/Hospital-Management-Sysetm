@@ -1,0 +1,6 @@
+![login](https://github.com/sauravbhilare/Hospital-Management-Sysetm/assets/112628721/6e60ea23-a3af-4f51-894a-e099305d2d82)
+![Dashboard](https://github.com/sauravbhilare/Hospital-Management-Sysetm/assets/112628721/0c926498-b623-4dcb-8d06-04989728f40a)
+![Patient](https://github.com/sauravbhilare/Hospital-Management-Sysetm/assets/112628721/ff7b28c1-5be5-4e8e-b40e-3722925d3246)
+![details](https://github.com/sauravbhilare/Hospital-Management-Sysetm/assets/112628721/6c9a0036-f487-45ab-b63c-c151d122b39e)
+![viewAppointment](https://github.com/sauravbhilare/Hospital-Management-Sysetm/assets/112628721/ab24fd35-5f65-4692-9230-0794970e9dcd)
+![view](https://github.com/sauravbhilare/Hospital-Management-Sysetm/assets/112628721/c389901d-e394-484a-bee8-cc0bc0e820f6)
